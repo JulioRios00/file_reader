@@ -1,0 +1,562 @@
+[
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7755",
+        "description": "SMOKE SALMON TARTAR, CITRUS SOUR CREAM",
+        "currency": "USD",
+        "price": 6.98
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7756",
+        "description": "WARM CURRIED VEGETABLE PATTY WITH SWEET CHILLI SAUCE",
+        "currency": "USD",
+        "price": 5.682
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO4801",
+        "description": "BUTTER ( PIPED ) BULK LOADED",
+        "currency": "USD",
+        "price": 1.042
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7757",
+        "description": "WHOLE WHEAT & FLAXSEED KNOT ROLL",
+        "currency": "USD",
+        "price": 2.446
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7758",
+        "description": "BLACK OLIVE AND GARLIC ROLL",
+        "currency": "USD",
+        "price": 2.516
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7759",
+        "description": "CHEDDAR CHEESE AND ONION ROLL",
+        "currency": "USD",
+        "price": 2.446
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7760",
+        "description": "PASSION FRUIT CHEEESE CAKE",
+        "currency": "USD",
+        "price": 5.32
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7761",
+        "description": "WARM CHOCOLATE BROWNIE",
+        "currency": "USD",
+        "price": 5.01
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7762",
+        "description": "STILTON, MATURE ENGLISH CHEDDAR, GOAT, GRAPE CHUTNEY",
+        "currency": "USD",
+        "price": 7.53
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7611",
+        "description": "CRACKERS FOR CHEESE - 1 x 7.5 OZ",
+        "currency": "USD",
+        "price": 14.776
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO5500",
+        "description": "CARIBBEAN FRUIT WHOLE (ASSORTED)",
+        "currency": "USD",
+        "price": 26.288
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO8457",
+        "description": "BUTTERNUT SQUASH & SPICED APPLE SOUP",
+        "currency": "USD",
+        "price": 9.162
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7764",
+        "description": "HERBED CHICKEN BREAST, POTATO GRATIN, CORN & PEPPER RAGOUT",
+        "currency": "USD",
+        "price": 12.582
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7765",
+        "description": "SPICED MAHI MAHI, TURMERIC & WILD RICE, COCONUT CURRY SAUCE",
+        "currency": "USD",
+        "price": 14.292
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7766",
+        "description": "VEGETABLE LASAGNA, DUO OF SAUCES",
+        "currency": "USD",
+        "price": 12.42
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7767",
+        "description": "SCRAMBLED EGGS, BACK BACON, SAUSAGE, BAKED BEANS, MUSHROOMS",
+        "currency": "USD",
+        "price": 9.72
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7768",
+        "description": "PEPPER AND CHEESE OMELETTE, SPINACH, SWEET POTATO WEDGE",
+        "currency": "USD",
+        "price": 7.85
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7769",
+        "description": "CHOCOLATE CHIP PANCAKE, SPICED PINEAPPLE AND BERRY COMPOTE",
+        "currency": "USD",
+        "price": 6.31
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO4240",
+        "description": "BACON BAP",
+        "currency": "USD",
+        "price": 5.18
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7770",
+        "description": "FRUIT PLATE",
+        "currency": "USD",
+        "price": 6.598
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7771",
+        "description": "BANANA MUFFIN",
+        "currency": "USD",
+        "price": 3.272
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7126",
+        "description": "PLAIN GREEK YOGHURT - 907 GRAMS",
+        "currency": "USD",
+        "price": 13.612
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7127",
+        "description": "GRANOLA WHOLE GRAIN OATS - 360 GRAMS",
+        "currency": "USD",
+        "price": 16.562
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7128",
+        "description": "ORIGINAL SHIRLEY BISCUITS",
+        "currency": "USD",
+        "price": 1.096
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "19381",
+        "description": "FULL FAT MILK - PINT",
+        "currency": "USD",
+        "price": 4.805
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "19383",
+        "description": "SEMI SKIMMED MILK - PINT",
+        "currency": "USD",
+        "price": 4.805
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "19385",
+        "description": "LEMON WEDGES",
+        "currency": "USD",
+        "price": 5.125
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "LO7607",
+        "description": "CUCUMBER SLICES",
+        "currency": "USD",
+        "price": 7.686
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "7041",
+        "description": "LIME WEDGES",
+        "currency": "USD",
+        "price": 4.78
+    },
+    {
+        "class": "UPPER",
+        "facility": "BGI",
+        "service_code": "19379",
+        "description": "WET ICE",
+        "currency": "USD",
+        "price": 2.942
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO2622",
+        "description": "TRAY SET UP MEAL",
+        "currency": "USD",
+        "price": 16.138
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7772",
+        "description": "SEARED CHICKEN THIGH, CREOLE SAUCE, GARLIZ ORZO",
+        "currency": "USD",
+        "price": 8.69
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7773",
+        "description": "SEARED MAHI MAHI,  GARLIC MASH, BLISTERED CHERRY TOMATO",
+        "currency": "USD",
+        "price": 11.298
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7774",
+        "description": "WILD RICE, COCONUT CURRY SAUCE, FRIED PLANTAIN",
+        "currency": "USD",
+        "price": 7.248
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO3321",
+        "description": "BREAKFAST TSU",
+        "currency": "USD",
+        "price": 12.094
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7775",
+        "description": "SCRAMBLED EGG,  PORK SAUSAGE, BACK BACON, BAKED BEANS",
+        "currency": "USD",
+        "price": 6.378
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7776",
+        "description": "EGG & VEGETABLE FRITATTA,  SWEET POTATO, BLISTERED CHEERY TOMATO",
+        "currency": "USD",
+        "price": 7.518
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7777",
+        "description": "CHOCOLATE CHIP PANCAKES, CARMALIZED PINEAPPLE, BERRY COULIS, VANILLA SAUCE",
+        "currency": "USD",
+        "price": 5.378
+    },
+    {
+        "class": "PREMIUM ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7135",
+        "description": "ORIGINAL SHIRLEY BISCUIT",
+        "currency": "USD",
+        "price": 1.096
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO2623",
+        "description": "TRAY SET UP MEAL",
+        "currency": "USD",
+        "price": 8.716
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7778",
+        "description": "ROASTED CHICKEN BREAST, PEPPERCORN SAUCE. MASHED POTATO, VEG",
+        "currency": "USD",
+        "price": 8.748
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7779",
+        "description": "MACARONI PIE, TOMATO ROSE CREAMY SAUCE",
+        "currency": "USD",
+        "price": 5.378
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "174148",
+        "description": "BREAKFAST BOX",
+        "currency": "USD",
+        "price": 6.758
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "LO7138",
+        "description": "OTIS SPUNKMEYER MUFFIN",
+        "currency": "USD",
+        "price": 1.872
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "19382",
+        "description": "FULL FAT MILK - LITRE",
+        "currency": "USD",
+        "price": 4.805
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "19384",
+        "description": "SEMI SKIMMED MILK - LITRE",
+        "currency": "USD",
+        "price": 4.805
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "7042",
+        "description": "LEMON WEDGES",
+        "currency": "USD",
+        "price": 5.125
+    },
+    {
+        "class": "ECONOMY",
+        "facility": "BGI",
+        "service_code": "19380",
+        "description": "WET ICE",
+        "currency": "USD",
+        "price": 2.942
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8708",
+        "description": "WILD RICE,COCONUT CURRY SAUCE,ROASTED CARROT,ZUCCHINI,SQUASH,FRIED PLANTAIN",
+        "currency": "USD",
+        "price": 6.438
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8709",
+        "description": "GARLIC MASH POTATO,SEARED CHICKEN THIGH,GREEN PEPPERCORN SAUCE",
+        "currency": "USD",
+        "price": 10.838
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8710",
+        "description": "SEARED MAHI MAHI,GARLIC ORZO PASTA,CREOLE SAUCE,ROASTED ZUCCHINI AND CARROT",
+        "currency": "USD",
+        "price": 12.378
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8711",
+        "description": "SEARED PORK LOIN,POTATO GRATIN,STEAMED CHRISTOPHENE,BLISTERED CHERRY TOMATO,JERKED SAUCE",
+        "currency": "USD",
+        "price": 13.84
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8712",
+        "description": "CHEESE RAVIOLI",
+        "currency": "USD",
+        "price": 8.718
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO5113",
+        "description": "EGG SALAD SANDWICH",
+        "currency": "USD",
+        "price": 5.374
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8713",
+        "description": "HAM  SANDWICH",
+        "currency": "USD",
+        "price": 7.734
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO5115",
+        "description": "TUNA SALAD SANDWICH",
+        "currency": "USD",
+        "price": 6.734
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8714",
+        "description": "CHEESE TOMATO CUCUMBER WRAP",
+        "currency": "USD",
+        "price": 6.694
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8715",
+        "description": "CHICKEN AND CHEESE BAGEL",
+        "currency": "USD",
+        "price": 5.014
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8716",
+        "description": "TURKEY SANDWICH",
+        "currency": "USD",
+        "price": 7.896
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO5119",
+        "description": "SCOTTISH BAP WITH BACON",
+        "currency": "USD",
+        "price": 4.866
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO5368",
+        "description": "PLAIN BAGEL WITH PC CREAM CHEESE",
+        "currency": "USD",
+        "price": 4.086
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8717",
+        "description": "CARROT SLICES,CUCUMBERSLICES,PUMPKIN HUMMUS,CHEDDAR CHEESE CUBE,BLACK OLVIES,PITA BREAD TRIANGLE",
+        "currency": "USD",
+        "price": 6.904
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO8718",
+        "description": "TILLAMOOK CHEESE PC,CARR'S CRACKERS,TROPICAL CHUTNEY",
+        "currency": "USD",
+        "price": 6.788
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO4110",
+        "description": "SEASONAL WHOLE FRUIT OPTION 1 (APPLE/BANANA/PEAR/ORANGE/MANGO) OPTION 1",
+        "currency": "USD",
+        "price": 4.622
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO4111",
+        "description": "SEASONAL WHOLE FRUIT OPTION 2 (APPLE/BANANA/PEAR/ORANGE/MANGO) OPTION 2",
+        "currency": "USD",
+        "price": 4.622
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO2664",
+        "description": "INTERISLAND 1.5 LTR WATER",
+        "currency": "USD",
+        "price": 2.272
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO7722",
+        "description": "ORIGINAL SHIRLEY BISCUIT",
+        "currency": "USD",
+        "price": 1.096
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO7721",
+        "description": "EGG SALAD SANDWICH",
+        "currency": "USD",
+        "price": 5.374
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO6303",
+        "description": "TUNA SANDWICH",
+        "currency": "USD",
+        "price": 6.734
+    },
+    {
+        "class": "CREW",
+        "facility": "BGI",
+        "service_code": "LO4268",
+        "description": "SEASONAL WHOLE FRUIT OPTION 1 (APPLE/BANANA/PEAR/ORANGE/MANGO) OPTION 1",
+        "currency": "USD",
+        "price": 4.622
+    }
+]
